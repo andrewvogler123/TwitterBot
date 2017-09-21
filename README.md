@@ -1,2 +1,2 @@
 # TwitterBot
-A Twitter Bot designed with the help of  'The Coding Train' on youtube.
+A Twitter Bot in its early design phase.
